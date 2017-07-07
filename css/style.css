@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+
+h1{
+	font-family: 'PT Serif', serif;
+	font-size: 75px
+}
+
+body
+{
+	font-family: "Open Sans", sans-serif;
+	color: black;
+	background-color: white;
+}
+
+img
+{
+	display: inline-block;
+	width: 100%;
+}
+
+header{
+	margin-bottom: 15px;
+}
+
+#bra{
+	float: right;
+}
+
+
+#stor-bild
+{
+	margin-top: 15px
+}
+
+.container
+{
+	position: relative;
+	text-align: center;
+}
+
+#Gran
+{
+	width: 70%;
+	margin-top: 110px;
+}
+
+#Saffle{
+	margin-top: 80px;
+	margin-right: 100px;
+	margin-left: 225px;
+	width: 70%;
+}
+
+
+.navbar-static-top{
+	background-color: black;
+}
+
+.backround-coulor{
+	background-color:
+}
+
+
+
+#kartas{
+	 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

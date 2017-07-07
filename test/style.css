@@ -1,0 +1,46 @@
+
+#snygg{
+	float: left;
+}
+
+ol{
+	color: green;
+	font-size: 40px;
+}	
+
+img{
+	float: right;
+	position: relative;
+	right: 600px;
+
+}
+
+
+
+
+
+
+
+body{
+	background-color: blue;
+	text-align: center;
+}
+
+#bra{
+	color: green;
+}
+
+#bra2{
+	color: white;
+}
+
+
+
+#bra3{
+	color: black;
+}
+
+
+.Hur{
+	background-color: yellow;
+}
